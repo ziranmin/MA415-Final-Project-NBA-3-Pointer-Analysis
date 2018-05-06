@@ -32,8 +32,8 @@ options(warn = -1)
 
 ######################################################################################################################
 #Code From Part 2
-whole_table <- read.csv(file="/Users/MZR/Desktop/Final Project Data Set/ideal_whole_data.csv")
-#whole_table <- read.csv(file="ideal_whole_data.csv")
+#whole_table <- read.csv(file="/Users/MZR/Desktop/Final Project Data Set/ideal_whole_data.csv")
+whole_table <- read.csv(file="ideal_whole_data.csv")
 
 for (year in 2003:2017) {
   whole_table_some_year <- filter(whole_table, Year == year)
