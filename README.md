@@ -4,5 +4,5 @@ There are 15 big csv files about the shot data every player in every game in rec
 
 I can't publish the shiny of my final project because of some unsolved problem, so I use the default shiny example in RStudio to practice how to publish a shiny file on shinyapp.io.         https://minziran.shinyapps.io/pract/
 
-To see the shiny of my final project, please download this repository and run file Shiny.R locally. Thanks!
+To see the shiny of my final project, please download this repository and run file Shiny.R locally. Thanks! /n
 Note: You can also just open the folder "Shiny in a folder" to run my Shiny Application
