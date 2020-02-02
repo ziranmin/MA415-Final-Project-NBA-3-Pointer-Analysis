@@ -1,9 +1,7 @@
 # MA415-Final-Project-NBA-3-Pointer-Analysis
 
-Summary:
-
-• Collected and manipulated the data of every single shot attempted in every NBA game in recent 15 years from NBA Stats API, and discovered relationship between team seasonal winning percentage and number of 3 pointers
-
+Summary:/
+• Collected and manipulated the data of every single shot attempted in every NBA game in recent 15 years from NBA Stats API, and discovered relationship between team seasonal winning percentage and number of 3 pointers/
 • Transformed JSON data to cleanable CSV format, visualized shooting data by designing player shot charts and time series graphs of team winnings and 3 pointers made, and conducted correlation test in R
 
 
